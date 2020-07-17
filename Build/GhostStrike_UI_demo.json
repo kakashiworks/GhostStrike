@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "GhostStrikes_V2",
+"productName": "GhostStrike_UI_demo",
 "productVersion": "0.1",
 "dataUrl": "GhostStrike_UI_demo.data.unityweb",
 "wasmCodeUrl": "GhostStrike_UI_demo.wasm.code.unityweb",
