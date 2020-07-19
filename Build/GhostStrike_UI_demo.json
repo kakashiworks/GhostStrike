@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "GhostStrike_UI_demo",
+"productName": "GhostStrike_2019_3x",
 "productVersion": "0.1",
 "dataUrl": "GhostStrike_UI_demo.data.unityweb",
 "wasmCodeUrl": "GhostStrike_UI_demo.wasm.code.unityweb",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.4.0f1"
+"unityVersion": "2019.3.13f1"
 }
